@@ -6,6 +6,7 @@ A website showcasing the life and legacy of Nikola Tesla
 index.html: The main HTML file for the website
 
 ##CODE
+
 ```
 
 <!DOCTYPE html>
