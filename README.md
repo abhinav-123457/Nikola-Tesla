@@ -1,6 +1,8 @@
 # Nikola-Tesla
 A website showcasing the life and legacy of Nikola Tesla
 
+## File 
+
 index.html: The main HTML file for the website
 
 #CODE
