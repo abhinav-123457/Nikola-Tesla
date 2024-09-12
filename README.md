@@ -1,6 +1,6 @@
 # Nikola-Tesla
 A website showcasing the life and legacy of Nikola Tesla
-# Screenshots
+# Screenshot
 ![Screenshot 2024-09-12 212732](https://github.com/user-attachments/assets/bb2a9eb7-9ef2-41dc-865b-6cb481ca24d9)
 
 ## File 
