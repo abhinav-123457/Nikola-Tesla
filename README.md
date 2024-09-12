@@ -7,7 +7,7 @@ index.html: The main HTML file for the website
 
 
 
-#CODE 
+CODE 
 ```
 
 <!DOCTYPE html>
